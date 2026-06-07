@@ -2,7 +2,7 @@
 
 ## Prompt
 
-Write 5 UGC-style ad scripts for a pet product brand named "Pawfect Treats".
+Write 5 UGC-style ad scripts for a tailoring brand named "Sri Gayathri Tailors".
 
 Requirements:
 - Hook
