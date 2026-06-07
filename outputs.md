@@ -2,36 +2,36 @@
 
 ## Hooks
 
-1. My dog refused to eat anything… until this!
-2. Are you feeding your dog the wrong treats?
-3. This one mistake is ruining your pet’s health!
-4. Every pet owner should know this…
-5. I found the healthiest treat for my dog!
+1. My blouse fitting finally became perfect!
+2. Tired of bad stitching from local shops?
+3. Every girl deserves a perfectly stitched outfit.
+4. I found the best tailoring shop near me!
+5. This tailor transformed my wedding outfit!
 
 ---
 
 ## UGC Script
 
 ### Hook
-"My dog refused to eat anything… until this!"
+"My blouse fitting finally became perfect!"
 
 ### Problem
-"My dog stopped enjoying regular treats."
+"I was tired of loose fittings and delayed stitching."
 
 ### Solution
-"Then I found Pawfect Treats — healthy and tasty dog snacks."
+"Then I found Sri Gayathri Tailors — perfect fitting and fast delivery."
 
 ### Result
-"Now my dog gets excited every snack time."
+"My outfits now look exactly how I imagined."
 
 ### CTA
-"Try Pawfect Treats for your furry friend today!"
+"Visit Sri Gayathri Tailors for custom stitching today!"
 
 ---
 
 ## CTA Lines
 
-- Healthy treats your dog will love!
-- Make snack time healthier today.
-- Your furry friend deserves better treats.
-- Try Pawfect Treats now!
+- Perfect fitting starts here!
+- Stitch your dream outfit today.
+- Custom tailoring made simple.
+- Look confident in every outfit.
