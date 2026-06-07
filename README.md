@@ -4,7 +4,7 @@
 Future Interns – Prompt Engineering Task 2
 
 ## Product
-Pawfect Treats – Healthy Dog Snacks
+Sri Gayathri Tailors – Custom Stitching Boutique
 
 ## Objective
 Create AI-generated UGC ad scripts for Instagram Reels and Shorts using Prompt Engineering.
@@ -21,4 +21,4 @@ Create AI-generated UGC ad scripts for Instagram Reels and Shorts using Prompt E
 - Social Media Captions
 
 ## Outcome
-Learned how AI can generate engaging ad content for modern brands.
+Learned how AI can generate engaging ad content for modern tailoring businesses.
